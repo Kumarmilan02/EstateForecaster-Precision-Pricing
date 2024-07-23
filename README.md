@@ -77,11 +77,11 @@ Here primary goal is to predict the sales price for each house in the test set. 
 
 ## Repository Structure
 
-- `data/` - Folder containing the dataset.
-- `notebooks/` - Jupyter notebooks for EDA and modeling.
-- `scripts/` - Python scripts for preprocessing, feature engineering, and model training.
-- `results/` - Folder for storing evaluation metrics and results.
+- `LICENSE` - License information for the project.
+- `Milan_submission.csv` - The final submission file of the the competition.
+- `Project_House_Price_Prediction.ipynb` - Jupyter notebook with project code, analysis, and results.
 - `README.md` - This file.
+- `house-prices-advanced-regression-techniques.zip` - Dataset.
 
 ## Contributing
 
